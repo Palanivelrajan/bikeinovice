@@ -1,0 +1,29 @@
+#tab_logic_total{
+    float:right;
+    width: 35%;
+}
+.invoice-title{
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+    border-bottom: 1px solid #000;
+}
+.company-details{
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+    border-bottom: 1px solid #000;
+}
+.company-address{
+    border-right: 1px solid #000;
+}
+.customer-details{
+    padding-bottom: 70px;
+    border-bottom: 1px solid #000;
+    margin-bottom: 50px;
+}
+a.btn{
+    color: #fff !important;
+}
+textarea{
+    max-width: 100%;
+    width: 100%;
+}
